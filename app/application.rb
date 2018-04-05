@@ -46,4 +46,6 @@ class Application
       return "added #{added_item}"
     else
       return "We don't have that item"
+    end
+  end
 end
