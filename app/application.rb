@@ -22,7 +22,6 @@ class Application
           resp.write "#{item}\n"
         end
       end
-
     else
       resp.write "Path Not Found"
     end
